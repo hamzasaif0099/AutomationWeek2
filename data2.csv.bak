@@ -1,0 +1,2 @@
+browser,height,width,browserType,deleteCookies,username,password,pageText,fname,lname,postal
+edge,1600,900,nohead,true,standard_user,secret_sauce,PRODUCTS,Tester,user1,75600

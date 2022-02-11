@@ -1,0 +1,118 @@
+<?xml version = "1.0"?>
+<Prototype>
+	<Execution>
+		
+		
+		
+		<loginForm>
+		
+			<email>hamzasaif001@gmail.com</email>
+			<pass>12345</pass>
+			<welcomeMessage>Hamza Saif</welcomeMessage>
+			
+			<browser>EDGE</browser>
+			<browserType></browserType>
+			<height>1600</height>
+			<width>900</width>
+			<deleteCookies>false</deleteCookies>
+				
+	
+		</loginForm>
+		
+
+		<wishlist>
+		
+			<email>hamzasaif001@gmail.com</email>
+			<pass>12345</pass>
+			<welcomeMessage>Hamza Saif</welcomeMessage>
+			
+			<browser>EDGE</browser>
+			<browserType></browserType>
+			<height>1600</height>
+			<width>900</width>
+			<deleteCookies>false</deleteCookies>
+				
+			<productLocator>//*[@id='center_column']/ul/li/div/div[2]/h5/a</productLocator>
+	
+		</wishlist>
+	
+		
+		<addToCart> 
+			<browser>edge</browser>
+			<browserType></browserType>
+			<height>1600</height>
+			<width>900</width>
+			<deleteCookies>true</deleteCookies>
+
+			<username>standard_user</username>
+			<password>secret_sauce</password>	
+			<pageText>PRODUCTS</pageText>					
+			
+			<itemName>Sauce Labs Backpack</itemName>
+			<price>$29.99</price>
+			<quantity>1</quantity>
+			
+
+		</addToCart>
+
+
+		<checkout>
+			<browser>chrome</browser>
+			<browserType></browserType>
+			<height>1600</height>
+			<width>700</width>
+			<deleteCookies>false</deleteCookies>
+			<username>standard_user</username>
+			<password>secret_sauce</password>
+			<pageText>PRODUCTS</pageText>	
+			
+			<fname>Tester</fname>
+			<lname>tes1</lname>
+			<postal>75600</postal>
+		</checkout>
+		
+		
+		
+		<dropDown>
+		
+		
+			
+			<browser>chrome</browser>
+			<browserType></browserType>
+			<height>1600</height>
+			<width>900</width>
+			<deleteCookies>true</deleteCookies>
+			
+			
+			<username>standard_user</username>
+			<password>secret_sauce</password>
+			<pageText>PRODUCTS</pageText>	
+			
+		</dropDown>
+		
+		
+		<productFilter>
+		
+			<browser>chrome</browser>
+			<browserType></browserType>
+			<height>1600</height>
+			<width>900</width>
+			<deleteCookies>true</deleteCookies>
+			
+			<username>problem_user</username>
+			<password>secret_sauce</password>	
+			<pageText>PRODUCTS</pageText>
+		
+		</productFilter>
+		
+		
+		
+		
+
+	</Execution>
+
+	
+
+
+
+</Prototype>

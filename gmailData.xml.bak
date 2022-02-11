@@ -1,0 +1,31 @@
+<?xml version = "1.0"?>
+<Prototype>
+	<Execution>
+		
+		
+		
+		<gmail>
+		
+			
+			<browser>EDGE</browser>
+			<browserType></browserType>
+			<height>900</height>
+			<width>900</width>
+			<deleteCookies>false</deleteCookies>
+				
+			<email>usert4335@gmail.com</email>	
+			<password>Anna786+</password>		
+			<userEmail>hamzasaif096@gmail.com</userEmail>
+			<subject>Welcome Message</subject>
+			<emailBody>Note Pad</emailBody>
+		</gmail>
+		
+
+
+	</Execution>
+
+	
+
+
+
+</Prototype>

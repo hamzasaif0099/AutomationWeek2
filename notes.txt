@@ -1,0 +1,108 @@
+ String tax = driver.FindElement(By.CssSelector("#checkout_summary_container > div > div.summary_info > div.summary_tax_label")).Text;
+         
+         String tPrice = Regex.Replace(tax, @"[^0-9.]+", ""); //removing $ from tax
+
+url user defined
+windows size user defined
+Clear cache   
+data driven for login and singup (browser name thorugh Data Driven)
+
+
+
+VM ya cloud service 
+
+
+waits in selenium 
+
+thread.sleep not recmended
+
+implicit wait 
+explicit wait 
+
+
+validation of wishlist 
+
+data source knsi select krni hai 
+
+
+Add table of content in Doc
+self explainatory docs
+
+
+add name and date over method 
+
+
+p3 mai responsive issue, Gui related
+p1 bht high priority
+
+
+
+test catrgorization
+
+
+
+
+hooks
+
+
+
+
+
+
+
+
+
+
+  String[] array1 = new string[] { p1, p2, iTPrice, getTotal };
+            String[] array2 = new string[] {};
+
+            for (int i = 0; i < array1.Length; i++) { 
+            
+                array2[i] = Regex.Replace(p1, @"[^0-9:.]+", "");
+
+            }
+
+============================================
+DATE: 26/1/2022
+
+
+Xpath should be the last aproach
+
+
+
+object or related methods us class ka part hoty hain.
+
+
+
+login jesy ALG PAGE pr verification jis page k scope m arha wahn
+User friendly report
+optimized CorePageAD
+
+
+
+
+ADd Notations (Smoke, Regression,)
+
+JIRA project execution related activities
+
+Bugs reporting 
+
+user stories banaty haian jesy user ny bola Create account ki facility chye
+
+epic user stories, tasks, bugs
+
+how to assign tasks, bugs 
+
+
+
+
+
+
+
+
+
+
+https://blog.webnersolutions.com/validating-downloaded-file-using-selenium/
+
+
+

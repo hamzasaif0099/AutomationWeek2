@@ -1,0 +1,27 @@
+<?xml version = "1.0"?>
+<Prototype>
+	<Execution>
+		
+		
+		
+		<file>
+		
+			
+			<browser>EDGE</browser>
+			<browserType></browserType>
+			<height>1600</height>
+			<width>900</width>
+			<deleteCookies>false</deleteCookies>
+				
+			
+		</file>
+		
+
+
+	</Execution>
+
+	
+
+
+
+</Prototype>
